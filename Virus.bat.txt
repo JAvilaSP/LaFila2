@@ -5,3 +5,6 @@ start iexplore.exe
 goto A
 echo Fatal Error.Virus Detected!
 pause
+
+
+//#<!!Este virus Fue escrito por santi el malvado.
